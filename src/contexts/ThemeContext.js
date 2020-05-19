@@ -9,7 +9,7 @@ class ThemeContextProvider extends Component {
             syntax: '#555', ui: '#ddd', bg: '#eee'
         },
         dark: {
-            syntax: '#ddd', iu: '#333', bg: '#555'
+            syntax: '#ddd', ui: '#333', bg: '#555'
         }
      }
 
